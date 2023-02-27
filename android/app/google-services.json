@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650274239524",
+    "project_id": "perfectguide-12285",
+    "storage_bucket": "perfectguide-12285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650274239524:android:4317041a23b2b3ad3214b1",
+        "android_client_info": {
+          "package_name": "com.example.perfect_o_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650274239524-nh8a840rss5umemsd57mk75l087vks02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfv657MI3i0Hf3G4N6ISfjcWZevXapbgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650274239524-nh8a840rss5umemsd57mk75l087vks02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
