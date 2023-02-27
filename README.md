@@ -1,16 +1,29 @@
 # perfect_o_guide
 
-A new Flutter project.
+A perfect Application for those students who are not sure about their career and exploring many websites and apps for courses, internships , jobs related information.
 
-## Getting Started
+Objective:-
 
-This project is a starting point for a Flutter application.
+Objective of this application is to guide each and every person to get A-Z information about courses related information, internship related opportunity and jobs related vacancies. We are pretty sure that if a person login to our application will never disappoint about any thing we will take care about anything we have 1-1 Mentorship option and many more features.
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Implementation:-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech stack :- flutter, figma, Android studio
+
+Language used :- Html5 , CSS3 , reactjs and Php
+
+This application is implemented on flutter which is best platform api to build any application.
+
+Final result:-
+
+Below attached pdf contains every information about how our application will help users to increase their interest in career and achive their goals.
+
+An user friendly application which every user wants. We have added A-Z every features that users wants.
+
+ 
+
+Conclusion:-
+
+In the competition of jobs and courses many fraud are going on and every person not able to get every information about jobs and internships and other opportunity so to solve this problem our application come into action and help user to get Certification course information, internship related opportunity information, job vacancies and one o one Mentorship to help. This app will contain premium features in free which will be very helpful to the user in comparison to pay high amount in other applications and website.
